@@ -1,1 +1,1 @@
-Short demo of the @Retryable annotation in Spring Boot. 
+Short demo of the handy @Retryable annotation in Spring Boot. 
